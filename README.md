@@ -5,7 +5,7 @@ Hangman is a classic word-guessing game where one tries to guess the word by sug
 - Random word selection from a pre-defined list
 - ASCII art for visual representation of the hangman figure
 
-# Reqirements
+# Requirements
 - Python 
 
 
